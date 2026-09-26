@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Gold Ring -->
+    <path
+        android:fillColor="#E5A93C"
+        android:pathData="M54,21 C72.2,21 87,35.8 87,54 C87,72.2 72.2,87 54,87 C35.8,87 21,72.2 21,54 C21,35.8 35.8,21 54,21 Z" />
+
+    <!-- Thin Gold Accent Ring -->
+    <path
+        android:fillColor="#B8860B"
+        android:pathData="M54,22.5 C71.4,22.5 85.5,36.6 85.5,54 C85.5,71.4 71.4,85.5 54,85.5 C36.6,85.5 22.5,71.4 22.5,54 C22.5,36.6 36.6,22.5 54,22.5 Z" />
+
+    <!-- Inner White Circle Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24 C70.6,24 84,37.4 84,54 C84,70.6 70.6,84 54,84 C37.4,84 24,70.6 24,54 C24,37.4 37.4,24 54,24 Z" />
+
+    <!-- Royal Golden Crown on Top -->
+    <!-- Crown Base Band -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M43,36.5 L65,36.5 L64,38 L44,38 Z" />
+    <!-- Crown Peaks / Fleur-de-lis -->
+    <path
+        android:fillColor="#E5A93C"
+        android:pathData="M42,36 L43,30 L48,34 L54,28 L60,34 L65,30 L66,36 Z" />
+    <!-- Crown Jewels / Dots -->
+    <path
+        android:fillColor="#B8860B"
+        android:pathData="M54,27.5 A1,1 0 1,1 54,29.5 A1,1 0 1,1 54,27.5 M43,29.5 A0.8,0.8 0 1,1 43,31.1 A0.8,0.8 0 1,1 43,29.5 M65,29.5 A0.8,0.8 0 1,1 65,31.1 A0.8,0.8 0 1,1 65,29.5" />
+
+    <!-- Word: "Deepak" in Royal Navy Blue -->
+    <!-- Stylized representation of "DEEPAK" letter glyphs -->
+    <path
+        android:fillColor="#0D2866"
+        android:pathData="M31,43 H37 C40.5,43 42.5,44.8 42.5,47.5 C42.5,50.2 40.5,52 37,52 H31 Z M33.5,45 V50 H36.5 C38.5,50 39.8,49 39.8,47.5 C39.8,46 38.5,45 36.5,45 Z" />
+    <!-- E -->
+    <path
+        android:fillColor="#0D2866"
+        android:pathData="M44,43.5 H49.5 V45.5 H46.5 V46.8 H49 V48.5 H46.5 V50 H49.8 V52 H44 Z" />
+    <!-- E -->
+    <path
+        android:fillColor="#0D2866"
+        android:pathData="M51,43.5 H56.5 V45.5 H53.5 V46.8 H56 V48.5 H53.5 V50 H56.8 V52 H51 Z" />
+    <!-- P -->
+    <path
+        android:fillColor="#0D2866"
+        android:pathData="M58,43.5 H63 C65.5,43.5 67,44.8 67,47 C67,49.2 65.5,50.5 63,50.5 H60.5 V52 H58 Z M60.5,45.3 V48.7 H62.8 C64,48.7 64.8,48 64.8,47 C64.8,46 64,45.3 62.8,45.3 Z" />
+    <!-- A -->
+    <path
+        android:fillColor="#0D2866"
+        android:pathData="M70,43.5 L67.5,52 H69.8 L70.4,49.8 H73.2 L73.8,52 H76.2 L73.5,43.5 Z M70.9,48.2 L71.8,45.2 L72.7,48.2 Z" />
+    <!-- K -->
+    <path
+        android:fillColor="#0D2866"
+        android:pathData="M78,43.5 H80.4 V46.8 L83,43.5 H85.8 L82.5,47.5 L86,52 H83.2 L80.4,48.5 V52 H78 Z" />
+
+    <!-- Flanking Gold Rules for "Centers" -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M27,57.5 H35 V58.5 H27 Z M27,59.5 H35 V60.5 H27 Z M73,57.5 H81 V58.5 H73 Z M73,59.5 H81 V60.5 H73 Z" />
+
+    <!-- Word: "Centers" in Vibrant Red -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M37,56 C39.5,55 42,56.5 42,59 C42,61.5 39.5,63 37,62 C35,61.2 34.5,59.5 34.5,59 C34.5,57.5 35.5,56.5 37,56 Z M37,57.8 C36.2,57.8 35.8,58.4 35.8,59 C35.8,59.6 36.2,60.2 37,60.2 C38,60.2 39.5,59.8 39.5,59 C39.5,58.2 38,57.8 37,57.8 Z" />
+    <!-- E -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M43,56 H47 V57.3 H44.5 V58.3 H46.5 V59.5 H44.5 V60.7 H47.2 V62 H43 Z" />
+    <!-- N -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M48.5,56 H50.2 L52.8,60 V56 H54.2 V62 H52.6 L50,58 V62 H48.5 Z" />
+    <!-- T -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M55.5,56 H60.5 V57.4 H58.8 V62 H57.2 V57.4 H55.5 Z" />
+    <!-- E -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M61.8,56 H65.8 V57.3 H63.3 V58.3 H65.3 V59.5 H63.3 V60.7 H66 V62 H61.8 Z" />
+    <!-- R -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M67.2,56 H70.5 C71.8,56 72.8,56.8 72.8,58 C72.8,59 72,59.7 71,59.9 L72.8,62 H71.2 L69.6,60 H68.7 V62 H67.2 Z M68.7,57.2 V58.8 H70.2 C70.8,58.8 71.3,58.5 71.3,58 C71.3,57.5 70.8,57.2 70.2,57.2 Z" />
+    <!-- S -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M73.8,61.2 L74.8,60.2 C75.5,60.8 76.2,61.1 77,61.1 C77.6,61.1 78,60.8 78,60.4 C78,59.8 77.2,59.6 76.2,59.2 C75,58.7 74.2,58.2 74.2,57.2 C74.2,56.2 75.2,55.5 76.8,55.5 C77.8,55.5 78.8,55.8 79.5,56.5 L78.6,57.5 C78,57 77.4,56.8 76.8,56.8 C76.2,56.8 75.8,57.1 75.8,57.4 C75.8,57.8 76.4,58 77.5,58.4 C78.8,58.9 79.6,59.5 79.6,60.5 C79.6,61.6 78.5,62.3 76.9,62.3 C75.6,62.3 74.5,61.8 73.8,61.2 Z" />
+
+    <!-- Dark Navy Pill Ribbon: "Sigdola Bara" -->
+    <path
+        android:fillColor="#0D2866"
+        android:pathData="M37,64.5 H71 C74,64.5 76.5,66.8 76.5,69.5 C76.5,72.2 74,74.5 71,74.5 H37 C34,74.5 31.5,72.2 31.5,69.5 C31.5,66.8 34,64.5 37,64.5 Z" />
+
+    <!-- "Sigdola Bara" in White -->
+    <!-- S -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35.5,72.5 L36.5,71.7 C37,72.2 37.5,72.5 38.2,72.5 C38.7,72.5 39,72.2 39,71.8 C39,71.3 38.4,71.1 37.6,70.8 C36.6,70.4 36,69.9 36,69.1 C36,68.2 36.8,67.5 38,67.5 C38.8,67.5 39.5,67.8 40.1,68.3 L39.3,69.2 C38.8,68.7 38.4,68.6 38,68.6 C37.5,68.6 37.2,68.8 37.2,69.1 C37.2,69.4 37.7,69.6 38.5,69.9 C39.6,70.3 40.2,70.8 40.2,71.7 C40.2,72.6 39.3,73.4 38.1,73.4 C37,73.4 36.1,73 35.5,72.5 Z" />
+    <!-- I -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M41.5,67.8 H42.8 V73 H41.5 Z" />
+    <!-- G -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46.8,69.3 H48.2 V72.5 C47.5,73.1 46.5,73.4 45.4,73.4 C43.8,73.4 43,72.2 43,70.5 C43,68.8 44,67.5 45.6,67.5 C46.6,67.5 47.4,67.9 48,68.5 L47.1,69.4 C46.7,69 46.2,68.7 45.6,68.7 C44.8,68.7 44.3,69.4 44.3,70.5 C44.3,71.6 44.8,72.2 45.5,72.2 C46,72.2 46.4,72 46.8,71.6 V70.6 H45.5 V69.3 Z" />
+    <!-- D -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49.8,67.8 H51.8 C53.4,67.8 54.4,68.8 54.4,70.4 C54.4,72 53.4,73 51.8,73 H49.8 Z M51.1,68.9 V71.9 H51.8 C52.7,71.9 53.1,71.3 53.1,70.4 C53.1,69.5 52.7,68.9 51.8,68.9 Z" />
+    <!-- O -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M57.5,67.5 C59.1,67.5 60.2,68.7 60.2,70.4 C60.2,72.1 59.1,73.4 57.5,73.4 C55.9,73.4 54.8,72.1 54.8,70.4 C54.8,68.7 55.9,67.5 57.5,67.5 Z M57.5,68.7 C56.6,68.7 56.1,69.4 56.1,70.4 C56.1,71.4 56.6,72.2 57.5,72.2 C58.4,72.2 58.9,71.4 58.9,70.4 C58.9,69.4 58.4,68.7 57.5,68.7 Z" />
+    <!-- L -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M61.2,67.8 H62.5 V71.8 H64.5 V73 H61.2 Z" />
+    <!-- A -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66.5,67.8 L65,73 H66.3 L66.7,71.7 H68.4 L68.8,73 H70.1 L68.5,67.8 Z M67,70.6 L67.5,69 L68,70.6 Z" />
+    <!-- B -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M71.2,67.8 H73.2 C74.2,67.8 74.8,68.3 74.8,69 C74.8,69.5 74.4,69.9 73.8,70.1 C74.5,70.3 75,70.8 75,71.6 C75,72.5 74.2,73 73.1,73 H71.2 Z M72.5,68.8 V69.9 H73.1 C73.5,69.9 73.8,69.6 73.8,69.3 C73.8,69 73.5,68.8 73.1,68.8 Z M72.5,70.8 V72 H73.2 C73.7,72 74,71.7 74,71.4 C74,71.1 73.7,70.8 73.2,70.8 Z" />
+
+    <!-- Bottom Accent: Golden line and "Sikar Rajasthan" -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M38,76.5 H47 V77.3 H38 Z M61,76.5 H70 V77.3 H61 Z" />
+    <!-- "Sikar - Rajasthan" Subtitle Dots / Line -->
+    <path
+        android:fillColor="#0D2866"
+        android:pathData="M48.5,76 H59.5 V77.8 H48.5 Z" />
+    <path
+        android:fillColor="#0D2866"
+        android:pathData="M43,79 H65 V80.4 H43 Z" />
+
+</vector>

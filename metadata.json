@@ -1,0 +1,6 @@
+{
+  "name": "Deepak Center",
+  "description": "Deepak Centers E-Mitra kiosk portal for Sigdola Bara, Sikar (Rajasthan) 332312. Complete Rajasthan E-Mitra services catalog, recent scheme updates, live application status tracking, and secure document upload.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
